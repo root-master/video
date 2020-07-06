@@ -1,3 +1,4 @@
 [submodule "AlphaPose"]
 	path = AlphaPose
-	url = https://github.com/root-master/AlphaPose
+	url = https://github.com/root-master/AlphaPose/tree/pytorch
+	branch = pytorch
