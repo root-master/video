@@ -2,3 +2,6 @@
 	path = AlphaPose
 	url = https://github.com/root-master/AlphaPose
 	branch = pytorch
+[submodule "tf-pose-estimation"]
+	path = tf-pose-estimation
+	url = https://github.com/root-master/tf-pose-estimation
